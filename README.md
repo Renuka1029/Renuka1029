@@ -29,4 +29,10 @@
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" title="Instagram"/>](https://www.instagram.com/_._renuka_iyer_._/)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%" title="Twitter"/>](https://twitter.com/dre_amy_renuka_)  &nbsp; 
 
-
+<details>
+   <summary>📛 My Badges</summary>
+        <br/>
+        <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+        </a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+        <br/>
+</details>
