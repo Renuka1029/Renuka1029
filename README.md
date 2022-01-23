@@ -21,7 +21,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let's Connect
 <!-- [<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" width="3.5%"/>](https://nikitha2309.github.io/Portfolio/)  &nbsp;  -->
 <!-- <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-banking-and-finance-kiranshastry-gradient-kiranshastry.png"/> -->
-[<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-banking-and-finance-kiranshastry-gradient-kiranshastry.png" width="3.5%" title="Portfolio Site"/>](https:// Renuka1029.github.io/Portfolio/)  &nbsp; 
+[<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-banking-and-finance-kiranshastry-gradient-kiranshastry.png" width="3.5%" title="Portfolio Site"/>](https://Renuka1029.github.io/Portfolio/)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" title="Email"/>](mailto:renuka.iyer2000@gmail.com)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" title="LinkedIn"/>](https://www.linkedin.com/in/Renuka1029/)  &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%" title="Whatsapp"/>](https://api.whatsapp.com/send?phone=+919404632922)  &nbsp;
