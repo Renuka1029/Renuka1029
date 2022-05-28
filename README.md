@@ -22,7 +22,6 @@
 [<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-portfolio-banking-and-finance-kiranshastry-gradient-kiranshastry.png" width="3.5%" title="Portfolio Site"/>](https://Renuka1029.github.io/Portfolio/)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" title="Email"/>](mailto:renuka.iyer2000@gmail.com)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" title="LinkedIn"/>](https://www.linkedin.com/in/Renuka1029/)  &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="3.5%" title="Whatsapp"/>](https://api.whatsapp.com/send?phone=+919404632922)  &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%" title="Facebook"/>](https://www.facebook.com/profile.php?id=10003)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" title="Instagram"/>](https://www.instagram.com/_._renuka_iyer_._/)  &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%" title="Twitter"/>](https://twitter.com/dre_amy_renuka_)  &nbsp; 
